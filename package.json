@@ -1,0 +1,15 @@
+{
+  "name": "7days-responsividade",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write \"**/*.{html,css,js}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
