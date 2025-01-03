@@ -1,0 +1,30 @@
+:root {
+    --cor-primaria: #464646;
+    --cor-secundaria: #a3a3a3;
+    --cor-terciaria: #ffffff;
+
+    --cor-botao-video: #ffb050;
+    --cor-botao-audio: #ececec;
+    --cor-botao-endereco: #4894ff;
+
+    --cor-botao-flutuante: #4894ff;
+    --drop-shadow-botao-flutuante: drop-shadow(0 3px 6px #4894ff80);
+
+    --background-body: linear-gradient(
+        90deg,
+        rgba(248, 244, 255, 1) 44%,
+        rgba(239, 240, 244, 1) 91%
+    );
+    --linha-divisoria: rgba(70, 70, 70, 0.1);
+
+    --font-principal: 'Montserrat', serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    cursor: pointer;
+}
